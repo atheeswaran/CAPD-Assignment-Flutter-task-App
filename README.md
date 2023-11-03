@@ -1,8 +1,7 @@
-** CAPD-Assignment-Flutter-task-App** 
 **=> Name: M. ATHEES WARAN 
 => BITS ID: 2022mt93200**
 
-**Flutter App with Back4App Integration:**
+**Assignment => Flutter App with Back4App Integration:**
 
 **Step1: Setup Back4App**
 1. Sign up for back4App => https://www.back4app.com/
