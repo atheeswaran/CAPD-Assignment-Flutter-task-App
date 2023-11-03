@@ -61,9 +61,12 @@ Step 7: Run the application
 
 Step 8: Test the Application against back4App Task Class
 1) Home Page => Fetch tasks with create task icon => verify against Back4App Task rows
+   ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/3ee1efae-bd37-424a-b9d9-e7d2d6e1f0b0)
+   ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/2fe119a7-2186-4127-9932-fcb02c239adc)
 2) Create task page => with task name and description fields to create => Check Back4App if new task is added
-3) Edit task => tap existing task and update the name or decription => Check back4App if task is updated with new details
-4) delete task => tap existing task and click delete icon => check back4App if task is deleted 
+   
+5) Edit task => tap existing task and update the name or decription => Check back4App if task is updated with new details
+6) delete task => tap existing task and click delete icon => check back4App if task is deleted 
 
 
    
