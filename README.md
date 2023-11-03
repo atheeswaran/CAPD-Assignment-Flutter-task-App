@@ -37,8 +37,35 @@
 1. Start editing First_App/lib/main.dart
 2. Import required dart packages
 3. Declare Task Class
-   ![Uploading image.png…]()
-4.In Main method, change 
+   ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/4006fbff-f729-461c-9633-ec918d5c6c47)
+   
+4.In Main method, update Application ID, client key and parseapi url
+  a) copy App ID, client key from back4App.
+![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/fee6d20d-dff3-4f99-9fed-7127b0331af6)
+
+5.Implement TaskListScreen(homepage) extended from Main App (MyApp) with below methods
+   a) **Fetchtasks** => to retrieve task and description by passing object ID from Back4App class using **Parse object**
+   b)** Create task** => Creates task with name and description in Back4App
+   
+6. Implement TaskCreationScreen after user clicks "create task" icon or edits/deletes existing task
+   a) **editTask **=> to edit the existing task and update the changes made to back4App
+   b) **Deletetask **=> to delete the tapped task and remove it from Back4App
+
+Step 7: Run the application
+1. Select the device in VS Code => installed emulator or Chrome => see below
+   ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/7dd45254-674e-404b-8aec-4d92cfb2db77)
+2. execute flutter run from terminal or Menu > run > start without debugging
+3. Ensure there are no errors in console
+
+Step 8: Test the Application against back4App Task Class
+1) Home Page => Fetch tasks with create task icon => verify against Back4App Task rows
+2) Create task page => with task name and description fields to create => Check Back4App if new task is added
+3) Edit task => tap existing task and update the name or decription => Check back4App if task is updated with new details
+4) delete task => tap existing task and click delete icon => check back4App if task is deleted 
+
+
+   
+ 
 
 
 
