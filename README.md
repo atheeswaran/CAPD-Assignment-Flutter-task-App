@@ -59,7 +59,7 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 **Step 7: Run the application**
 1. Select the device in VS Code => installed emulator or Chrome => see below
    ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/7dd45254-674e-404b-8aec-4d92cfb2db77)
-2. execute flutter run from terminal or Menu > run > start without debugging
+2. execute flutter run from terminal or Menu > run > start without debugging or from terminal => **flutter run --release**
 3. Ensure there are no errors in console
 
 **Step 8: Test the Application against back4App Task Class**
