@@ -75,15 +75,17 @@ https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
   
 **Step 8A: Bonus Features (Edit and Delete tasks) **
 1) **Edit task** => tap existing task and update the name or decription => Check back4App if task is updated with new details
-     ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/891ebd00-e6a3-4451-83cc-677fa7c7a227)
-     ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/8ab82466-683f-409e-9a2e-f1f8d1da32ef)
-     ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/ddd30839-ae29-4717-8dbe-584bfe5f67ce)
+    ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/4beed345-97d0-40e5-becf-26a2179d7e9b)
+   ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/1d0ca7ff-03f4-44cd-93dd-15315d9da1d5)
+   ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/578f3210-0870-42e0-9ab7-81828756ea7d)
+
 2) **delete task** => tap existing task and click delete icon => check back4App if task is deleted
-    ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/f5392566-7505-40d0-abd0-fde803dbe6ce)
+    ![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/e32fc393-a910-483d-b8dc-0188085e0776)
     deleted task is not present in Back4App
    
 **Step 9: Check Cross-Platform ness between mobile and web app**
-![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/537a8ceb-c097-4ff7-bbf2-4dbd5ddf3030)
+![image](https://github.com/atheeswaran/CAPD-Assignment-Flutter-task-App/assets/19812046/b15c22cf-05bc-46aa-8ed1-c2c515241fa9)
+
 
 
 
